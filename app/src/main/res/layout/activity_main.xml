@@ -8,5 +8,8 @@
 
     <include
         android:id="@+id/abMain"
-        layout="@layout/appbar"/>
+        layout="@layout/appbar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+
 </RelativeLayout>
