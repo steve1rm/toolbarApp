@@ -2,8 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context=".MainActivity"
-    android:fitsSystemWindows="true">
+    tools:context=".MainActivity">
 
     <item
         android:id="@+id/action_settings"
@@ -25,5 +24,4 @@
         android:title="@string/action_favourite"
         app:showAsAction="ifRoom">
     </item>
-
 </menu>
